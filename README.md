@@ -1,6 +1,6 @@
 # Configurações Iniciais
 
-Instalar NodeJS, NPM, Yarn, SQLite3 e Typescript
+Instalar NodeJS, NPM, React, Yarn, SQLite3 e Typescript
 
 ## React Project Start
 `yarn create react-app NOMEPROJETO --template typescript`
