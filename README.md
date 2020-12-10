@@ -1,3 +1,5 @@
+Obs: O Projeto foi desenvolvido na NLW2 da Rocketseat.
+
 # Configurações Iniciais
 
 Instalar NodeJS, NPM, React, Yarn, SQLite3 e Typescript
