@@ -1,4 +1,5 @@
 Obs: O Projeto foi desenvolvido na NLW2 da Rocketseat.
+
 Trata-se do Profy, uma plataforma para estudos onlines onde é possível se cadastrar ou contratar o serviço de professores.
 
 # Configurações Iniciais
